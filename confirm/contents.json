@@ -1,0 +1,13 @@
+{
+    "메타" : {
+        "이미지소스" : "J",
+        "T" : "https://github.com/MrChoooo/forrest-images/blob/master/",
+        "J" : "https://github.com/Maetel/chtpage-images/blob/master/"
+    },
+    "메인" : {
+        "about" : {
+            "이미지개수" : 3,
+            "image1" : ""
+        }
+    }
+}
